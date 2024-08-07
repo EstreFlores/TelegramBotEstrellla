@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MyFirstTelegramBot",
+            "request": "launch",
+            "mainClass": "es.codegym.telegrambot.MyFirstTelegramBot",
+            "projectName": "TelegramBot"
+        }
+    ]
+}
